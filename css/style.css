@@ -1,0 +1,17 @@
+#demo{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h2{
+    padding: 7px;
+    border-radius: 50%;
+    margin: 10px;
+   
+    background-color: #ccc;
+    color: aliceblue;
+}
+
+.dark{
+    background-color: black;
+}
